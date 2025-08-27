@@ -17,3 +17,5 @@ Evidence-based nutrition articles, supermarket staples explained, and practical 
 - Exploring digital health, coding & informatics
 # NoShNutrition
 NoSh — honest, evidence-based food writing and digital health experiments. Website, articles, and future mini-apps.
+---
+👉 Live site: thenoshnutrition.wordpress.com
